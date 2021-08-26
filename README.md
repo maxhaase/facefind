@@ -3,7 +3,9 @@
 Usage: facefind ImageFile source
 
 ImageFile: bitmap
+
 source: optical device or storage
+
 Optional: --list, --names, --alert
 
 You can enable monitor mode to continuously capture images with a camera until ImageFile is found, or search for ImageFile recursively on disk storage.
